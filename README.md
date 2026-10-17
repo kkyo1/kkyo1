@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Caio 👋
 
-<!--
-**kkyo1/kkyo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer Student | Aspiring Python Developer**
 
-Here are some ideas to get you started:
+I'm a Software Engineer student focused on **Python development and automation**. I enjoy building practical solutions to real-world problems and exploring how software can make systems more efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- Building Python automation tools and practical projects.
+- Learning backend development and software engineering.
+- Exploring AI engineering and intelligent systems.
+
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **Tools:** Git, GitHub, VS Code
+- **Currently Exploring:** APIs, HTTP requests, JSON, automation, and backend development.
+
+### 📌 Featured Projects
+- **Remote Application Automation** — A Python project that remotely triggers Windows applications using `ntfy`, with command validation, logging, and error handling.
+
+### 📫 Let's Connect
+- **LinkedIn:** [www.linkedin.com/in/caio-teodoro-nol](YOUR_LINKEDIN_URL)
+- **Email:** [caiotechnolt@gmail.com](mailto:your.email@example.com)
+
+---
+
+*Always learning, building, and improving — one project at a time.*
