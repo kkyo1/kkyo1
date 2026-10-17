@@ -1,8 +1,10 @@
 # Hi, I'm Caio 👋
 
-💻 **Software Engineer Student | Aspiring Python Developer**
+💻 **Software Engineer Student | Aspiring AI Engineer**
 
-I'm a Software Engineer student focused on **Python development and automation**. I enjoy building practical solutions to real-world problems and exploring how software can make systems more efficient.
+I'm a Computer Science student interested in building intelligent systems and software that solves real-world problems.
+
+Currently focused on Python development, automation, and software engineering, while exploring AI and systems that can learn and adapt.
 
 ### 🚀 What I'm Working On
 - Building Python automation tools and practical projects.
